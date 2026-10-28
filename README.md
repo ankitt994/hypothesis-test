@@ -89,10 +89,6 @@ Alternatively, open the [HTML export](./hypothesis%20test.html) to read the anal
 - Interpreting p-values against a significance level
 - Translating statistical results into a practical decision-making context
 
-## Learning Resource
-
-This project follows the guided lab **[Use Python to conduct a hypothesis test](https://www.coursera.org/learn/the-power-of-statistics/lecture/FyATt/use-python-to-conduct-a-hypothesis-test)** from Coursera's *The Power of Statistics* course.
-
 ## Author
 
 **Ankit Tripathi**  
